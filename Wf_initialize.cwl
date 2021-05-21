@@ -31,19 +31,19 @@
             "type": "string"
         },
         {
-            "id": "nifty1_history_info",
+            "id": "fnity1_history_info",
             "type": "string"
         },
         {
-            "id": "nifty2_history_info",
+            "id": "fnity2_history_info",
             "type": "string"
         },
         {
-            "id": "nifty_history_result",
+            "id": "fnity_history_result",
             "type": "string"
         },
         {
-            "id": "nifty_ini",
+            "id": "fnity_ini",
             "type": "string"
         },
         {
@@ -99,20 +99,20 @@
                     "source": "info_txt"
                 },
                 {
-                    "id": "nifty1_history_info",
-                    "source": "nifty1_history_info"
+                    "id": "fnity1_history_info",
+                    "source": "fnity1_history_info"
                 },
                 {
-                    "id": "nifty2_history_info",
-                    "source": "nifty2_history_info"
+                    "id": "fnity2_history_info",
+                    "source": "fnity2_history_info"
                 },
                 {
-                    "id": "nifty_history_result",
-                    "source": "nifty_history_result"
+                    "id": "fnity_history_result",
+                    "source": "fnity_history_result"
                 },
                 {
-                    "id": "nifty_ini",
-                    "source": "nifty_ini"
+                    "id": "fnity_ini",
+                    "source": "fnity_ini"
                 },
                 {
                     "id": "sample",
